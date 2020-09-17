@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs/commissionBatchPlanCalc/v16
+/CreatePatientDataBase/bin/x64/Debug
+/CreatePatientDataBase/obj
+/CreatePatientDataBase/Properties
+/Projects
+/testCreatePatientList
+/ArchivedIMRTQADatabase.csv
+/IMRTQAList.csv
